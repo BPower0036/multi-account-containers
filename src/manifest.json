@@ -115,7 +115,6 @@
     "browser_style": true,
     "default_icon": "img/ui/icon-mac.svg",
     "default_title": "Firefox Multi-Account Containers",
-    "default_area": "navbar",
     "default_popup": "popup.html",
     "theme_icons": [
       {
